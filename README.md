@@ -1,5 +1,5 @@
 ## Appium General Store Automation
-# # # Overview
+### Overview
 This project demonstrates automated testing of the General Store app using Appium. The automation script covers various functionalities like:
 - Selecting a region from a dropdown menu.
 - Entering text in a name field.
@@ -7,7 +7,7 @@ This project demonstrates automated testing of the General Store app using Appiu
 - Adding an item to the cart.
 - Viewing the cart contents.
 - Clicking the submit button.
-# # # Prerequisites
+### Prerequisites
 Before running the automation script, make sure you have the following set up on your machine:
 - Install Java Development Kit (JDK) latest version.
 - Download and install IntelliJ IDEA
