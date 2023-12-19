@@ -15,3 +15,5 @@ Before running the automation script, make sure you have the following set up on
 - Download and install Appium Inspector (bundled with Appium Desktop) from the official releases page
 - Download and install Android Studio
 - Set up an Android Virtual Device (AVD) or connect a physical Android device
+
+## Happy automating! 
